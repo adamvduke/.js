@@ -8,4 +8,4 @@ setTimeout(function()
 	$("#pagelet_footer").remove();
 	$("#pagelet_friends_online").remove();
 	$(".fbDockWrapper").remove();	
-}, 300);
+}, 400);
